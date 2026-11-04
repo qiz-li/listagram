@@ -3,7 +3,15 @@
   "version": "1.0.0",
   "private": true,
   "license": "MIT",
-  "description": "Userscript that keeps Instagram's DMs, stories and friends' content, and removes endless scrolling.",
+  "description": "Instagram without the scrolling. A userscript for Safari on iPhone.",
+  "homepage": "https://github.com/qiz-li/listagram#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiz-li/listagram.git"
+  },
+  "bugs": {
+    "url": "https://github.com/qiz-li/listagram/issues"
+  },
   "scripts": {
     "test": "node --test tests/listagram.test.js"
   },

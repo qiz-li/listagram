@@ -1,0 +1,13 @@
+{
+  "name": "listagram",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "description": "Userscript that keeps Instagram's DMs, stories and friends' content, and removes endless scrolling.",
+  "scripts": {
+    "test": "node --test tests/listagram.test.js"
+  },
+  "devDependencies": {
+    "jsdom": "^26.0.0"
+  }
+}
